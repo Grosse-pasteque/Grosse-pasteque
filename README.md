@@ -6,4 +6,4 @@
 __Discord 🌐:__ *Grosse pastèque#6705*
 
 
-![](languages.png)
+![](language.png)
