@@ -6,5 +6,4 @@
 __Discord 🌐:__ *Grosse pastèque#6705*
 
 
-![](py.png)
-![](js.png)
+!(languages.png)
