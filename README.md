@@ -4,6 +4,3 @@
   Actually learning **javascript**.
 
 __Discord 🌐:__ *Grosse pastèque#6705*
-
-
-![](language.png)
