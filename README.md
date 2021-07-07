@@ -1,6 +1,7 @@
-  **Python Programmer 🐍**
-  *~5* years experience
+🐍 **Python Programmer since** *2016*
+ 
+ 🔎 Learning **javascript**
+ 
+**💖 Cryptography**
 
-  Actually learning **javascript**.
-
-__Discord 🌐:__ *Grosse pastèque#6705*
+__Github 🌐:__ **https://github.com/Grosse-pasteque**
