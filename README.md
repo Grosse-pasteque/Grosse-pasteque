@@ -1,6 +1,6 @@
 🐍 **Python Programmer since** *2016*
  
- 🔎 Learning **javascript**
+ 🔎 Learning **javascript, C++, C#**
  
 **💖 Cryptography**
 
