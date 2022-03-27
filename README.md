@@ -4,4 +4,4 @@
  
 **💖 Cryptography**
 
-__Discord 🌐:__ **Grosse pastèque#6705**
+__Discord 🌐:__ **Big watermelon#6705**
